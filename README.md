@@ -1,4 +1,4 @@
-# Online Courses landing page
+# Online Courses Landing Page
 
 
 ## project screenshot
